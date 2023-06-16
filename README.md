@@ -1,6 +1,6 @@
 # Microsoft Teams Conversational Bot with Teams AI Library: Teams Teachr
 
-This is a conversational bot for Microsoft Teams that impersonates a chef to help you cook Teams apps. The bot uses the text-davinci-003 model to chat with Teams users and respond in a polite and respectful manner, staying within the scope of the conversation.
+This is a conversational bot for Microsoft Teams that impersonates a programming teacher to help you learn a coding language in Teams apps. The bot uses the `text-davinci-003` model to chat with Teams users and respond in a polite and respectful manner, staying within the scope of the conversation.
 
 This sample illustrates basic conversational bot behavior in Microsoft Teams. The bot is built to allow GPT to facilitate the conversation on its behalf, using only a natural language prompt file to guide it.
 
@@ -125,6 +125,14 @@ The bot uses the text-davinci-003 model to chat with Teams users and respond in 
 ## Deploy the bot to Azure
 
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions or use the Teams Toolkit to help you: [Deploy a Microsoft Teams app to Azure by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/teams-toolkit-vsc-deploy-apps/)
+
+##Demo
+
+<video controls autoplay loop style="max-width: 80%;">
+  <source src="TeamsTeachrAiBot.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Further reading
 
