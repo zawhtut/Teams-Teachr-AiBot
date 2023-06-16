@@ -126,7 +126,10 @@ The bot uses the text-davinci-003 model to chat with Teams users and respond in 
 
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions or use the Teams Toolkit to help you: [Deploy a Microsoft Teams app to Azure by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/teams-toolkit-vsc-deploy-apps/)
 
-##Demo
+## Demo
+
+https://github.com/zawhtut/Teams-Teachr-AiBot/assets/10856644/549ada78-d26c-425d-b013-91c2d72dcc3c
+
 
 <video controls autoplay loop style="max-width: 80%;">
   <source src="TeamsTeachrAiBot.webm" type="video/webm">
