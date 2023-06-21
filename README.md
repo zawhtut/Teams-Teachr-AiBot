@@ -91,6 +91,17 @@ Notice that the bot remembered Dave's first message when responding to the secon
 
 This bot has been created using [Bot Framework](https://dev.botframework.com).
 
+## Demo
+
+<!-- This is commented out. https://github.com/zawhtut/Teams-Teachr-AiBot/assets/10856644/549ada78-d26c-425d-b013-91c2d72dcc3c
+
+<video controls autoplay loop style="max-width: 80%;">
+  <source src="TeamsTeachrAiBot.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video> -->
+
+[TeamsTeachrAiBot.webm](https://github.com/zawhtut/Teams-Teachr-AiBot/assets/10856644/082c8740-c1f2-42d1-b3e0-1b286abf0ad3)
+
 ## Prerequisites
 
 -   Global Administrator access to a [Microsoft 365 tenant](https://developer.microsoft.com/microsoft-365/dev-program?ocid=MSlearn&WT.mc_id=m365-16105-cxa) with [uploading Teams custom apps enabled](https://learn.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant#enable-custom-teams-apps-and-turn-on-custom-app-uploading?WT.mc_id=m365-84637-cxa).
@@ -126,19 +137,9 @@ The bot uses the text-davinci-003 model to chat with Teams users and respond in 
 
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions or use the Teams Toolkit to help you: [Deploy a Microsoft Teams app to Azure by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/teams-toolkit-vsc-deploy-apps/)
 
-## Demo
-
-https://github.com/zawhtut/Teams-Teachr-AiBot/assets/10856644/549ada78-d26c-425d-b013-91c2d72dcc3c
-
-
-<video controls autoplay loop style="max-width: 80%;">
-  <source src="TeamsTeachrAiBot.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-
 
 ## Further reading
 
--   [How Microsoft Teams bots work](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics-teams?view=azure-bot-service-4.0&tabs=javascript)
--   [Build a bot by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/teams-toolkit-vsc-create-bot/)
+- [How Microsoft Teams bots work](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics-teams?view=azure-bot-service-4.0&tabs=javascript)
+- [Build a bot by using Teams Toolkit for Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/teams-toolkit-vsc-create-bot/)
 - [Build apps with Teams AI Library](https://aka.ms/Teams-AI-Library)
